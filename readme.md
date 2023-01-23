@@ -1,0 +1,1 @@
+This is the dummy project to show api gateway example 
